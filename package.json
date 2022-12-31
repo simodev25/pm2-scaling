@@ -1,0 +1,28 @@
+{
+  "name": "pm2-scaling",
+  "version": "1.0.0",
+  "description": "pm2-scaling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simodev25/pm2-scaling.git"
+  },
+  "keywords": [
+    "pm2",
+    "pm2-scaling"
+  ],
+  "author": "bensassi.mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simodev25/pm2-scaling/issues"
+  },
+  "homepage": "https://github.com/simodev25/pm2-scaling#readme",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "pm2": "^5.2.2",
+    "rxjs": "^7.8.0"
+  }
+}
